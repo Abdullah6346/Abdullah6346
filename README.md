@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend Technologies.
 - 😄 Coding Name: Gladdy
 - ⚡ Fun fact: I love Coding and Creating Solutions.
-# 👋 Hi Welcome to my github!
+# 👋 Hi Welcome to my Github!
 
 I am an **experienced Full-Stack Developer** with a strong focus on both front-end and back-end development. My expertise lies in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I specialize in building scalable, responsive, and high-performance web applications that offer seamless user experiences.
 
